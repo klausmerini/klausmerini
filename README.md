@@ -35,6 +35,29 @@ Tecnologias :
 ![alt text](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![alt text](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
+
+
+Experiência profissional com testes unitários, JUnit, TestNG testes de banco de dados, testes regressivos, automatização com Selenuim e Cucumber escritos em Java. Desenvolvimento ágil. Octane, BitBucket, Git. Testes manuais. Testes Mobile, Appium.
+Experiêcia profissional com desenvolvimento em Java utilizando o framework Webworks.
+Conhecimentos de Robot Framework. Design Patterns.
+Atualmente em busca de nova vaga.  
+
+<!--
+**klausmerini/klausmerini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 <!--
 **klausmerini/klausmerini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
