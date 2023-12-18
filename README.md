@@ -1,6 +1,9 @@
 ### Bom dia, sou Klaus Merini ✋
 
+Link para meu LinkedIn :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaus-merini-06233927/)
+
+Essas são as tecnologias com as quais estou familiarizado. Gosto de aprender coisas novas, e havendo necessidade, possuo uma considerável capacidade auto-didata, gosto e preciso estar constantemente aprendendo coisas novas
 
 Sistemas operacionais :
 
