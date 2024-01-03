@@ -3,7 +3,7 @@
 Link para meu LinkedIn :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaus-merini-06233927/)
 
-Essas são as tecnologias com as quais estou familiarizado. Gosto de aprender coisas novas, e havendo necessidade, possuo uma considerável capacidade auto-didata, preciso estar constantemente aprendendo coisas novas e me atualizando com as novas tecnologias.
+Essas são as tecnologias com as quais estou familiarizado. Gosto de aprender coisas novas, e havendo necessidade, possuo uma considerável capacidade auto-didata, estou constantemente aprendendo coisas novas e me atualizando com as novas tecnologias.
 
 Sistemas operacionais :
 
