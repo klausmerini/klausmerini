@@ -40,7 +40,7 @@ Tecnologias :
 
 
 
-Experiência profissional com testes unitários, JUnit, TestNG testes de banco de dados, testes regressivos, automatização com Selenuim e Cucumber escritos em Java. Desenvolvimento ágil. Octane, BitBucket, Git. Testes manuais. Testes Mobile, Appium.
+Experiência profissional com testes unitários, JUnit, TestNG testes de banco de dados, testes regressivos, automatização com Selenuim e Cucumber escritos em Java. Desenvolvimento ágil, devOps, Octane, BitBucket, Git, jenkins, JIRA. Testes manuais. Testes Mobile, Appium.
 Experiêcia profissional com desenvolvimento em Java utilizando o framework Webworks.
 Conhecimentos de Robot Framework. Design Patterns.
 Atualmente em busca de nova vaga.  
