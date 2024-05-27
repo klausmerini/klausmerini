@@ -3,7 +3,7 @@
 Link para meu LinkedIn :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaus-merini-06233927/)
 
-Essas são as tecnologias com as quais estou familiarizado. Gosto de aprender coisas novas, e havendo necessidade, possuo uma considerável capacidade auto-didata, estou constantemente me atualizando com as novas tecnologias.
+Gosto de aprender coisas novas, e havendo necessidade, possuo uma considerável capacidade auto-didata, estou constantemente me atualizando com as novas tecnologias. Essas são algumas das tecnologias com as quais estou familiarizado :
 
 Sistemas operacionais :
 
@@ -40,9 +40,9 @@ Tecnologias :
 
 
 
-Experiência profissional com testes unitários, JUnit, TestNG, testes de banco de dados, SQL, testes regressivos, Selenuim, Cucumber, Desenvolvimento ágil, Azure devOps, Octane, BitBucket, Git, jenkins, JIRA, Testes manuais, Testes Mobile, Appium,
+Possuo cerca de 7 anos de experiência profissional de progamação em Java. Primeiramente programando : Desenvolvi um plugin para o Jira, trabalhando na PUC-Rio, e lá mesmo iniciei com testes automatizados, inclusive de banco de dados utilizando SQL. Experiência profissional com testes unitários, JUnit, TestNG, testes de banco de dados, SQL, testes regressivos, Selenuim, Cucumber, Desenvolvimento ágil, SCRUM, Azure devOps, Octane, BitBucket, Git, jenkins, JIRA, Testes manuais, Testes Mobile, Appium,
 experiêcia profissional com desenvolvimento em Java utilizando o framework Webworks.
-Conhecimentos de Robot Framework, Mockito, teste de API REST Assured, Postman, Design Patterns.
+Conhecimentos de Robot Framework, Mockito, teste de API REST Assured, Postman, Design Patterns, Cypress, JMeter.
 Exemplos no repositório.
 Atualmente em busca de nova vaga.  
 
