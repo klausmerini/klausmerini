@@ -40,10 +40,10 @@ Tecnologias :
 
 
 
-Possuo cerca de 7 anos de experiência profissional de progamação em Java. Primeiramente programando : Desenvolvi um plugin para o Jira, trabalhando na PUC-Rio, e lá mesmo iniciei com testes automatizados, inclusive de banco de dados utilizando SQL. Experiência profissional com testes unitários, JUnit, TestNG, testes de banco de dados, SQL, testes regressivos, Selenuim, Cucumber, Desenvolvimento ágil, SCRUM, Azure devOps, Octane, BitBucket, Git, jenkins, JIRA, Testes manuais, Testes Mobile, Appium,
+Possuo cerca de 7 anos de experiência profissional de progamação em Java. Primeiramente programando : Desenvolvi um plugin para o Jira, trabalhando na PUC-Rio, e lá mesmo iniciei com testes automatizados, inclusive de banco de dados utilizando SQL. Experiência profissional com testes unitários, JUnit, TestNG, testes de banco de dados, SQL, testes regressivos, Selenuim, Cucumber, Desenvolvimento ágil, SCRUM, Azure devOps, Octane, BitBucket, Git, jenkins, JIRA, Testes manuais, Testes Mobile, Appium, Andoid studio com vitual devices.
 experiêcia profissional com desenvolvimento em Java utilizando o framework Webworks.
 Conhecimentos de Robot Framework, Mockito, teste de API REST Assured, Postman, Design Patterns, Cypress, JMeter.
-Exemplos no repositório.
+Exemplos no repositório, no READ.ME de cada repósitório há uma descrição de cada projeto.
 Atualmente em busca de nova vaga.  
 
 <!--
